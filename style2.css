@@ -1,0 +1,11 @@
+.pookadanav
+{background-color: black;
+margin-bottom: 50px;
+}
+.pookadanav button{
+    background-color: grey;
+}
+footer{
+    background-color: rgb(206, 194, 194);
+    height: 70px;
+}
